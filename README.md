@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project is looking at the data collected by the ride sharing company PyBer to observe trends on the ride data collected.  The goal is to provide the CEO with insight into ride revenue in different city times which include urban, suburban and rural cities.  This data can help determine the strategies for the company moving forward on how resources are allocated and develop metrics that can be used to measure the performance of the drivers in each type of city enviroment.  To provide this analysis, the city data and ride data summaries were collected and merged to create an overview of the rides within a 4 month window.  These datasets were analysised using Pandas and JupyterLab to clean and sort the data to create visuals to represent the trends observed in the data.  
+This project is looking at the data collected by the ride sharing company PyBer to observe trends on the ride data collected.  The goal is to provide the CEO with insight into ride revenue in different city times which include urban, suburban and rural cities.  This data can help determine the strategies for the company moving forward on how resources are allocated and develop metrics that can be used to measure the performance of the drivers in each type of city enviroment.  To provide this analysis, the city data and ride data summaries were collected and merged to create an overview of the rides within a 4 month window.  These datasets were analysised using Pandas and JupyterLab to clean and sort the data to create visuals to represent the trends observed in the data. 
+
 ---
 
 # Results
@@ -28,6 +29,8 @@ The rural citys have the lowest ride and driver numbers with the lowest fare rev
 ### Overview of the data
 
 From an analysis of the week by week rides from each of the city types, a line graph was created to show the relationships between the frequency of rides between each of the areas.  As seen in the figure below, there is a similar variation in the total fares collected from the rides accross the rural and urban cities.  The suburban cities appear to have a more consistant amount of rides over time.  This there is similar trends observed in late Febuary accross all the cities but the overall trends appear unique to each area.  There is a consistancy of the overall amount of ride revenue collected in each city type over time which is reflected in the overall rank of each city in the overall data. 
+
+<img.src("analysis/PyBer_fare_summary.png")
 
 ---
 
