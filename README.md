@@ -12,7 +12,7 @@ This project is looking at the data collected by the ride sharing company PyBer 
 
 Using the merged dataset, each city within the territory was characterized as being one of three city types: Rural, Urban or Suburban.  The data for each city was grouped by city type and allowed for the analysis trend on the rides conducted in each city type.  An overview of the data can be seen in the table below which gives a broad summary of the ride data that was collected for this analysis.
 
-<img src="analysis/PyBer_Data_Summary_Chart.png" width="700" height="200">
+<img src="analysis/PyBer_Data_Summary_Chart.png" width="600" height="100">
 
 ### Urban City Type:
 
@@ -30,15 +30,15 @@ The rural cities have the lowest ride and driver numbers with the lowest fare re
 
 From an analysis of the week-by-week rides from each of the city types, a line graph was created to show the relationships between the frequency of rides between each of the areas.  As seen in the figure below, there is a similar variation in the total fares collected from the rides across the rural and urban cities.  The suburban cities appear to have a more consistent number of rides over time.  This there is similar trends observed in late February across all the cities, but the overall trends appear unique to each area.  There is a consistency of the overall amount of ride revenue collected in each city type over time which is reflected in the overall rank of each city in the overall data. 
 
-<img src="analysis/PyBer_fare_summary.png" width="1000" height="600">
+<img src="analysis/PyBer_fare_summary.png" width="1000" height="300">
 
 A further analysis of the data using a scatterplot shown below, illustrates the clustering of the rides by city in comparison between the number of rides and the average fares.  This data set shows that there is a larger concentration of the rides in the urban city groups but a lower overall average fare per city.  There does appear to be some crossover between the number of rides between the suburban and urban city types however the suburban average fares are distinctly higher in this crossover area.  The rural city types are generally show a consistently lower number of rides and a consistently higher average fare.
 
-<img src="analysis/Average_Fare_by_Ride_Summary.png" width="1000" height="600">
+<img src="analysis/Average_Fare_by_Ride_Summary.png" width="700" height="400">
 
 Finally, an analysis of the distribution of fares between the city types showed that there was a consistent range of fares between the urban and suburban city types, with a large range of fares observed in the rural city types.  This is illustrated in the boxplots that are shown below that present the distribution of the fares between the three city types. 
 
-<img src="analysis/Boxplots_PyBer_Fares_per_city.png" width="1000" height="600">
+<img src="analysis/Boxplots__PyBer_Fares_per_city.png" width="500" height="300">
 
 ---
 
